@@ -1,2 +1,2 @@
 #Sala12 
-Hola SAla 12 -JA
+Hola Sala 12 -JA.
